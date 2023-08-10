@@ -1,0 +1,29 @@
+body{
+    background-color:rgb(68, 126, 243);
+}
+.st{
+  width: 25%;
+    background-color: rgb(213, 213, 252);
+    padding: 10px;
+    border-radius: 10px;
+
+   
+}
+#f{
+    border-radius: 5px;
+    display: inline-block;
+    width: 100%;
+    border: 2px solid rgb(206, 206, 231);
+}
+.button{
+   border-radius: 7px;
+   font-size: large;
+}
+.button:hover{
+    background-color: rgb(40, 153, 223);
+
+   
+}
+.y:hover{
+    background-color: rgb(78, 78, 141);
+}
